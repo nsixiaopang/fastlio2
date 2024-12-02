@@ -1,0 +1,3 @@
+[submodule "match_mobile_robotics"]
+	path = match_mobile_robotics
+	url = https://github.com/ROSmatch/match_mobile_robotics
