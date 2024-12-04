@@ -10,3 +10,9 @@
 [submodule "Livox_simulation_customMsg"]
 	path = Livox_simulation_customMsg
 	url = https://github.com/Luchuanzhao/Livox_simulation_customMsg.git
+[submodule "faster-lio"]
+	path = faster-lio
+	url = https://github.com/gaoxiang12/faster-lio
+[submodule "FAST_LIO"]
+	path = FAST_LIO
+	url = https://github.com/hku-mars/FAST_LIO.git
